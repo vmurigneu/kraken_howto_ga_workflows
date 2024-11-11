@@ -14,4 +14,10 @@
   image_url: /assets/img/main_logo.png
   expose: true
   type: infrastructure
-  url: https://www.biocommons.org.au/
+  url: https://www.biocommons.org.au
+
+- name: QCIF
+  image_url: /assets/img/qcif_logo.png
+  expose: true
+  type: infrastructure
+  url: https://www.qcif.edu.au/
