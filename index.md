@@ -1,19 +1,38 @@
 ---
-title: How-to Guide landing page template
-type: template
+title: Kraken taxonomy Workflow landing page
+type: guide
 contributors: 
-description: Add a plain text description here.
+description: How-to guide for Kraken Taxonomy classification workflow on Galaxy Australia.
 affiliations: 
+toc: true
 sidebar: false
 ---
 
 
-**Replace the text below with your guide content!**
+## About 
 
-Example templates that you could use for different guides are available in this repository:
+This document describes how to use a shotgun metagenomics workflow on Galaxy Australia. The aim of this workflow is to handle the routine part of shotgun metagenomics data processing. The workflow is using the tools MetaPhlAn2 for taxonomy classification and HUMAnN2 for functional profiling of the metagenomes.  
 
-- [Standard page that can be used as a starting point for any type of guide.](example_page)
-- [Suggested structure for a guide describing how to use a bioinformatics workflow](example_bioinformatics_workflow_page)
-- [Suggested structure for documentation describing a workflow: based on Australian BioCommons documentation guidelines](example_workflow_documentation_page)
+This workflow represents just one way of processing data for a ‘typical’ shotgun metagenomics experiment – there are many other options!  
 
-Use cases for different guides are described in the [How-to Guide for using this template](https://australianbiocommons.github.io/how-to-guide-template/how_to_guide_types).
+
+## Please cite this guide as follows
+
+
+
+
+## Acknowledgements
+
+This guide makes use of the ELIXIR toolkit theme: [![theme badge](https://img.shields.io/badge/ELIXIR%20toolkit%20theme-jekyll-blue?color=0d6efd)](https://github.com/ELIXIR-Belgium/elixir-toolkit-theme)
+
+
+## References
+
+This workflow depends on the following tools and resources:
+* [Kraken2](https://github.com/DerrickWood/kraken2/blob/master/LICENSE)
+* [Bracken](https://github.com/jenniferlu717/Bracken/blob/master/LICENSE)
+* [KrakenTools](https://github.com/jenniferlu717/KrakenTools/blob/master/LICENSE)
+* Krona: [publication](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-12-385)
+* Galaxy: [Galaxy project](https://galaxyproject.org/) 
+* Galaxy Australia: [Galaxy Australia service](https://usegalaxy.org.au/)
+
