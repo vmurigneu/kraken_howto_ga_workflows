@@ -19,4 +19,15 @@
 #    role: author
 #    affiliation: Australian BioCommons / University of Melbourne
 
+Valentine Murigneux:
+    git: vmurigneu
+    orcid: 0000-0002-1235-9462
+    role: lead
+    affiliation: QCIF
+
+Mike Thang:
+    git: mthang
+    orcid: 0000-0002-1480-3563
+    role: author
+    affiliation: QCIF
 
