@@ -1,10 +1,10 @@
 ## 
 ## if you want to list an external url, use external_url instead of url. the theme will apply a different link base.
 subitems:
-- title: Guide
-  url: /index
+- title: Workflow guide
+  url: /taxonomy_kraken2_wf_guide
 - title: About
-  url: /about
+  url: /index
 - title: Back to How-to Hub
   url: https://australianbiocommons.github.io/how-to-hub/index
 
