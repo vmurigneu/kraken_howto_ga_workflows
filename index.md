@@ -1,7 +1,6 @@
 ---
 title: Kraken taxonomy Workflow landing page
 type: guide
-contributors: Valentine Murigneux, Mike Thang
 description: How-to guide for Kraken Taxonomy classification workflow on Galaxy Australia.
 toc: true
 sidebar: false
