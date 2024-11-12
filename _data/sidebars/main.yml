@@ -1,4 +1,10 @@
-#subitems:
+subitems:
+  - title: About
+    url: /index
+  - title: Workflow guide
+    url: /taxonomy_kraken2_wf_guide
+  - title: Contributors
+    url: /contributors
 #  - title: About
 #    url: /index
 #  - title: Standard example page
