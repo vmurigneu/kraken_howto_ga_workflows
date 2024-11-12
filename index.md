@@ -16,11 +16,11 @@ This document describes how to use a shotgun metagenomics workflow on Galaxy Aus
 
 The diagram below represents an overview of the shotgun metagenomics pipeline using Kraken2 and Bracken, with the tools used (blue), the databases (orange), and the input and output data (yellow).  
 
-<p align="center"><img src="../images/shotgun_kraken_workflow_scheme.png" alt="Workflow_scheme" width="65%"></p>
+<p align="center"><img src="/images/shotgun_kraken_workflow_scheme.png" alt="Workflow_scheme" width="65%"></p>
 
 The different steps of the pipeline are representing in more details in the Galaxy workflow diagram below.  
 
-<p align="center"><img src="../images/shotgun_kraken2_galaxy_workflow_image.png" alt="Galaxy_workflow" width="95%"></p>
+<p align="center"><img src="/images/shotgun_kraken2_galaxy_workflow_image.png" alt="Galaxy_workflow" width="95%"></p>
 
 ## 1. Extraction of taxonomic information ([Kraken2](https://github.com/DerrickWood/kraken2) and [Bracken](https://github.com/jenniferlu717/Bracken))
 
@@ -52,7 +52,7 @@ The workflow will take one fastq file per sample as input.
 
 Figure: Creating a collection
 
-<p align="center"><img src="../images/create_collection.png" width="99%"></p>
+<p align="center"><img src="/images/create_collection.png" width="99%"></p>
 
 A. Click the checkbox icon. This will reveal checkboxes to the left of all datasets in the history.  
 B. In this case we want to select all datasets, so press "Select All" button (alternatively datasets can be filtered). This will put a check mark into all checkboxes.  
@@ -83,7 +83,7 @@ E. Click on "Run Workflow"
 [Link to the workflow on Galaxy Australia](https://usegalaxy.org.au/u/valentine_murigneux/w/taxonomy-classification-using-kraken2-and-bracken)  
 
 Figure: Run the workflow
-<p align="center"><img src="../images/run_workflow_kraken.png" width="100%"></p>
+<p align="center"><img src="/images/run_workflow_kraken.png" width="100%"></p>
 
 ### 4. Once the workflow has completed, open the report
 A report will be automatically generated for each invocation of the workflow. The report is located under the menu "Data" -> "Workflow Invocations".  
@@ -109,7 +109,7 @@ The "Output Collections" items contain the output file for each sample separatel
 
 Figure: Workflow Report
 
-<p align="center"><img src="../images/workflow_report_kraken.png" width="99%"></p>
+<p align="center"><img src="/images/workflow_report_kraken.png" width="99%"></p>
 
 ---
 
