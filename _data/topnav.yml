@@ -4,9 +4,6 @@
 - title: About
   url: /index
 - title: Workflow guide
-  url: /taxonomy_kraken2_wf_guide
+  url: /pages/taxonomy_kraken2_wf_guide
 - title: Back to How-to Hub
-  url: https://australianbiocommons.github.io/how-to-hub/index
-
-
-    
+  external_url: https://australianbiocommons.github.io/how-to-hub/index
