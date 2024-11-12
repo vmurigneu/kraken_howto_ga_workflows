@@ -1,7 +1,6 @@
 ## About
 
-Please see the [How-to Guide for the template](https://australianbiocommons.github.io/how-to-guide-template/) for more information on how to get started.  
-
+This is the taxonomy classification using Kraken2 in Galaxy Australia howto documentation. View here: https://vmurigneu.github.io/kraken_howto_ga_workflows/index
 
 ## Acknowledgements for the guides
 
