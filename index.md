@@ -11,7 +11,7 @@ sidebar: false
 
 ## About 
 
-This document describes how to use a shotgun metagenomics workflow on Galaxy Australia. The aim of this workflow is to handle the routine part of shotgun metagenomics data processing. The workflow is using the tools MetaPhlAn2 for taxonomy classification and HUMAnN2 for functional profiling of the metagenomes.  
+This document describes how to use a shotgun metagenomics workflow on Galaxy Australia. The aim of this workflow is to handle the routine part of shotgun metagenomics data processing. The workflow is using the tools Kraken2 and Bracken for taxonomy classification and the KrakenTools to evaluate diversity metrics.
 
 This workflow represents just one way of processing data for a ‘typical’ shotgun metagenomics experiment – there are many other options!  
 
