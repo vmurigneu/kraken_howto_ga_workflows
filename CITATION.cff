@@ -8,6 +8,7 @@ authors:
   - given-names: Mike
     family-names: Thang
     affiliation: QCIF Bioinformatics
+    orcid: https://orcid.org/0000-0002-1480-3563
 title: "Taxonomy classification using Kraken2 on Galaxy Australia"
 version: 0.0.0
 doi: [DOI goes here]
