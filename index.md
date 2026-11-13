@@ -1,5 +1,5 @@
 ---
-title: Kraken taxonomy Workflow landing page
+title: About the shotgun metagenomics workflow
 type: guide
 description: How-to guide for Kraken Taxonomy classification workflow on Galaxy Australia.
 toc: true
